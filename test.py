@@ -37,4 +37,4 @@ def run(rgb):
 
   return print(labels[pred])
 
-run([109, 168, 181])
+run([53, 156, 42])
